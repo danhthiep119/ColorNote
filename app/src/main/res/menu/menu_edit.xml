@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_Check"
+        android:title="Check" />
+    <item
+        android:id="@+id/nav_Share"
+        android:title="Share" />
+    <item
+        android:id="@+id/nav_lock"
+        android:title="Lock" />
+    <item
+        android:id="@+id/nav_reminder"
+        android:title="Reminder" />
+    <item
+        android:id="@+id/nav_Archive"
+        android:title="Archive" />
+    <item
+        android:id="@+id/nav_delete"
+        android:title="Delete" />
+</menu>

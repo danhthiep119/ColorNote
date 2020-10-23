@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_Note"
+        android:title="Note" />
+    <item
+        android:id="@+id/nav_Calendar"
+        android:title="Calendar" />
+    <item
+        android:id="@+id/nav_Archive"
+        android:title="Archive" />
+    <item
+        android:id="@+id/nav_Trash"
+        android:title="Trash Can" />
+    <item
+        android:id="@+id/nav_Setting"
+        android:title="Setting" />
+    <item
+        android:id="@+id/nav_Share"
+        android:title="Share" />
+    <item
+        android:id="@+id/nav_Rate"
+        android:title="Rate" />
+    <item
+        android:id="@+id/nav_FeedBack"
+        android:title="Feedback" />
+    <item
+        android:id="@+id/nav_Infomation"
+        android:title="Informaton" />
+</menu>

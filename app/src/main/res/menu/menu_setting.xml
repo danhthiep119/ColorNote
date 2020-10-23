@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group>
+        <item
+            android:id="@+id/nav_delete"
+            android:icon="@drawable/ic_baseline_delete_forever_24"
+            android:title="Delete"
+            />
+        <item
+            android:id="@+id/nav_lock"
+            android:icon="@drawable/ic_baseline_lock_24"
+            android:title="Lock"
+            app:showAsAction="never"
+            />
+        <item
+            android:id="@+id/nav_Share"
+            android:icon="@drawable/ic_baseline_share_24"
+            android:title="Share"
+            />
+        <item
+            android:id="@+id/nav_copy"
+            android:icon="@drawable/ic_baseline_description_24"
+            android:title="Copy"
+            />
+    </group>
+</menu>
